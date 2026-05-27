@@ -1,0 +1,6 @@
+{
+  "name": "MCS Property Redesign",
+  "description": "A modern, high-performance redesign of the MCS Property corporate website with bilingual support (EN/MN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
